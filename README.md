@@ -27,7 +27,7 @@ magic.
 
 ### Stack
 
-`PHP` · `Python` · `C` · `C++` · `Swift` · `TypeScript` · `JavaScript` · `ESP32 / Arduino` · `MySQL` · `SQLite` · `Linux`
+`PHP` · `Python` · `C` · `C++` · `Swift` · `TypeScript` · `JavaScript` · `ESP32 / Arduino` · `MySQL` · `SQLite` · `Linux` 
 
 <br />
 
