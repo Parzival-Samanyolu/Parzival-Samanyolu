@@ -1,17 +1,19 @@
-```console
-parzival@samanyolu:~$ whoami
+```
+      *  .   '  .  *     parzival@samanyolu
+   '   .-~~~~~-.   .     ------------------
+  .  ,'    o    ',  *    host    Samanyolu Web Developer Platform
+   .'   .-~~~-.   '.     where   Nahçıvan
+   |   /   *   \   |     focus   web · embedded · native apps · python
+   '.  \  o .  /  .'     style   framework-free · from scratch · prod
+  *  '. '-._.-' .'  .    lang    PHP  Python  C  C++  Swift  TypeScript
+   .   '~-...-~'   *     embed   ESP32  Arduino  Deneyap  ·  MySQL  SQLite
+      '  .   *  .  '     web     https://samanyolu.com
 
-Parzival — full-stack builder @ Samanyolu Web Developer Platform
-Nahçıvan · framework-free, from scratch, production-grade
+parzival@samanyolu:~$ echo $MOTTO
 "I don't follow paths — I create them."
+```
 
-parzival@samanyolu:~$ cat stack.txt
-
-lang      PHP   Python   C   C++   Swift   TypeScript   JavaScript
-embedded  ESP32   Arduino   Deneyap
-data      MySQL   SQLite
-system    Linux   Bash
-
+```console
 parzival@samanyolu:~$ ls ./work
 ```
 
@@ -24,11 +26,6 @@ parzival@samanyolu:~$ ls ./work
 | [`munctrl/`](https://github.com/Parzival-Samanyolu/munctrl) | MUNApp — fully offline native macOS app for running Model UN conferences. Pure Swift + AppKit + SQLite, no Xcode. |
 
 ```console
-parzival@samanyolu:~$ cat links.txt
-
-web   https://samanyolu.com
-org   Samanyolu Web Developer Platform
-
 parzival@samanyolu:~$ git stats --summary
 ```
 
