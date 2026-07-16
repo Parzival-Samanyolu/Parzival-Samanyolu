@@ -1,16 +1,21 @@
 ```
-      *  .   '  .  *     parzival@samanyolu
-   '   .-~~~~~-.   .     ------------------
-  .  ,'    o    ',  *    host    Samanyolu Web Developer Platform
-   .'   .-~~~-.   '.     where   Nahçıvan
-   |   /   *   \   |     focus   web · embedded · native apps · python
-   '.  \  o .  /  .'     style   framework-free · from scratch · prod
-  *  '. '-._.-' .'  .    lang    PHP  Python  C  C++  Swift  TypeScript
-   .   '~-...-~'   *     embed   ESP32  Arduino  Deneyap  ·  MySQL  SQLite
-      '  .   *  .  '     web     https://samanyolu.com
-
-parzival@samanyolu:~$ echo $MOTTO
-"I don't follow paths — I create them."
+                    'c.          parzival@samanyolu
+                 ,xNMM.          ------------------
+               .OMMMMo           OS: Samanyolu Web Developer Platform
+               OMMM0,            Host: full-stack builder · Nahçıvan
+     .;loddo:' loolloddol;.      Kernel: framework-free · from scratch · production
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: building since 2022
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 11 public repos
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh · bash
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages: PHP · Python · C · C++ · Swift · TypeScript
+:MMMMMMMMMMMMMMMMMMMMMMMM:       Embedded: ESP32 · Arduino · Deneyap
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      Data: MySQL · SQLite
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Editor: neovim · nano
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Web: https://samanyolu.com
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Motto: "I don't follow paths — I create them."
+    kMMMMMMMMMMMMMMMMMMMMMMd
+     ;KMMMMMMMWXXWMMMMMMMk.
+       .cooc,.    .,coo:.
 ```
 
 ```console
