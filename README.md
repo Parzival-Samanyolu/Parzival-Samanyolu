@@ -10,7 +10,7 @@
 ;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages: PHP · Python · C · C++ · Swift · TypeScript
 :MMMMMMMMMMMMMMMMMMMMMMMM:       Embedded: ESP32 · Arduino · Deneyap
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      Data: MySQL · SQLite
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Editor: neovim · nano
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Editor: nano · VS Code
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Web: https://samanyolu.com
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Motto: "I don't follow paths — I create them."
     kMMMMMMMMMMMMMMMMMMMMMMd
