@@ -2,12 +2,12 @@
                     'c.          parzival@samanyolu
                  ,xNMM.          ------------------
                .OMMMMo           OS: Samanyolu Web Developer Platform
-               OMMM0,            Host: full-stack builder · Nahçıvan
+               OMMM0,            Host: 10x full-stack builder · Nahçıvan
      .;loddo:' loolloddol;.      Kernel: framework-free · from scratch · production
    cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: building since 2022
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 11 public repos
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh · bash
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages: PHP · Python · C · C++ · Swift · TypeScript
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Languages: PHP · Python · JavaScript · Java · C · C++ · Swift · TypeScript
 :MMMMMMMMMMMMMMMMMMMMMMMM:       Embedded: ESP32 · Arduino · Deneyap
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      Data: MySQL · SQLite
  kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Editor: nano · VS Code
